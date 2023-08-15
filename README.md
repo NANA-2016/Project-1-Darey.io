@@ -5,3 +5,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/ls -R command.png
 /home/vboxuser/Pictures/Screenshots/all sudo command s .png
 /home/vboxuser/Pictures/Screenshots/2  pwd commands.png
+/home/vboxuser/Pictures/Screenshots/cd commands.png
