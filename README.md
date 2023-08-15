@@ -8,3 +8,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/cd commands.png
 /home/vboxuser/Pictures/Screenshots/ls  command 1.png
 /home/vboxuser/Pictures/Screenshots/ls -R  command screen shot1.png
+/home/vboxuser/Pictures/Screenshots/All of ls commands .png
