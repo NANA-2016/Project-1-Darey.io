@@ -22,3 +22,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/tar command.png
 
 FILE PERMISSIONS AND OWNERSHIP COMMANDS.
+/home/vboxuser/Pictures/Screenshots/chmod command.png
