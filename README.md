@@ -17,3 +17,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/find command.png
 /home/vboxuser/Pictures/Screenshots/grep command.png
 /home/vboxuser/Pictures/Screenshots/df rename.png
+/home/vboxuser/Pictures/Screenshots/du commands and its flags.png
