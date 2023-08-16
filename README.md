@@ -15,3 +15,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/rm command .png
 /home/vboxuser/Pictures/Screenshots/locate command.png
 /home/vboxuser/Pictures/Screenshots/find command.png
+/home/vboxuser/Pictures/Screenshots/grep command.png
