@@ -13,3 +13,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/mkdir commands.png
 /home/vboxuser/Pictures/Screenshots/rmdir command.png
 /home/vboxuser/Pictures/Screenshots/rm command .png
+/home/vboxuser/Pictures/Screenshots/locate command.png
