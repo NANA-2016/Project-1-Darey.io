@@ -28,3 +28,4 @@ FILE PERMISSIONS AND OWNERSHIP COMMANDS.
 /home/vboxuser/Pictures/Screenshots/wget command.png
 /home/vboxuser/Pictures/Screenshots/uname command and options.png
 /home/vboxuser/Pictures/Screenshots/top command running.png
+/home/vboxuser/Pictures/Screenshots/history command .png
