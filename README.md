@@ -20,3 +20,5 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/du commands and its flags.png
 /home/vboxuser/Pictures/Screenshots/diff command.png
 /home/vboxuser/Pictures/Screenshots/tar command.png
+
+FILE PERMISSIONS AND OWNERSHIP COMMANDS.
