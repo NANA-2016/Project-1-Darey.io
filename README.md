@@ -29,3 +29,4 @@ FILE PERMISSIONS AND OWNERSHIP COMMANDS.
 /home/vboxuser/Pictures/Screenshots/uname command and options.png
 /home/vboxuser/Pictures/Screenshots/top command running.png
 /home/vboxuser/Pictures/Screenshots/history command .png
+/home/vboxuser/Pictures/Screenshots/man ls command.png
