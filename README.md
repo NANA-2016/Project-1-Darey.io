@@ -1,11 +1,8 @@
 # Project-1-Darey.io
-Darey.io project one content
-
-
+Darey.io project one conten
 /home/vboxuser/Pictures/Screenshots/all sudo command s .png
 /home/vboxuser/Pictures/Screenshots/2  pwd commands.png
 /home/vboxuser/Pictures/Screenshots/cd commands.png
-
 /home/vboxuser/Pictures/Screenshots/All of ls commands .png
 /home/vboxuser/Pictures/Screenshots/cat commands .png
 /home/vboxuser/Pictures/Screenshots/cp commands.png
@@ -20,7 +17,6 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/du commands and its flags.png
 /home/vboxuser/Pictures/Screenshots/diff command.png
 /home/vboxuser/Pictures/Screenshots/tar command.png
-
 FILE PERMISSIONS AND OWNERSHIP COMMANDS.
 /home/vboxuser/Pictures/Screenshots/chmod command.png
 /home/vboxuser/Pictures/Screenshots/chown command.png
