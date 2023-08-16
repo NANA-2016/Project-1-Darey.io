@@ -23,3 +23,4 @@ Darey.io project one content
 
 FILE PERMISSIONS AND OWNERSHIP COMMANDS.
 /home/vboxuser/Pictures/Screenshots/chmod command.png
+/home/vboxuser/Pictures/Screenshots/chown command.png
