@@ -9,3 +9,4 @@ Darey.io project one content
 /home/vboxuser/Pictures/Screenshots/All of ls commands .png
 /home/vboxuser/Pictures/Screenshots/cat commands .png
 /home/vboxuser/Pictures/Screenshots/cp commands.png
+/home/vboxuser/Pictures/Screenshots/mv command.png
