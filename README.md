@@ -33,3 +33,4 @@ FILE PERMISSIONS AND OWNERSHIP COMMANDS.
 /home/vboxuser/Pictures/Screenshots/man plus echo commands.png
 /home/vboxuser/Pictures/Screenshots/zip unzip command.png
 /home/vboxuser/Pictures/Screenshots/lias and unlias commands.png
+/home/vboxuser/Pictures/Screenshots/htop command.png
